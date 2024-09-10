@@ -18,7 +18,7 @@ sections:
         align: center
         background:
           image:
-            filename: stacked-peaks.svg
+            filename: homepage1.jpg
             filters:
               brightness: 0.4
             size: cover
